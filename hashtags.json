@@ -1,5 +1,28 @@
 {
 	"hashtags": {
+		"famous": [
+			"instagood",
+			"me",
+			"follow",
+			"photooftheday",
+			"picoftheday",
+			"happy",
+			"beautiful",
+			"like",
+			"selfie",
+			"summer",
+			"fun",
+			"smile",
+			"friends",
+			"instadaily",
+			"food",
+			"style",
+			"pretty",
+			"sun",
+			"webstagram",
+			"music",
+			"look"
+		],
 		"development": [
 			"backend",
 			"coding",
