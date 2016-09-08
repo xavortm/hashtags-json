@@ -1,18 +1,37 @@
 {
 	"hashtags": {
 		"development": [
+			"backend",
+			"coding",
 			"development",
+			"frontend",
+			"javascript",
+			"php",
+			"php7",
+			"programming",
 			"webdev",
-			"website",
-			"programming"
+			"website"
 		],
 		"design": [
-			"photoshop",
+			"app",
+			"apple",
+			"application",
+			"chrisp",
+			"designThinking",
+			"flatDesign",
+			"fonts",
+			"interface",
+			"macBook",
 			"mockup",
+			"photoshop",
+			"pixels",
+			"render",
+			"retina",
+			"screenshot",
+			"typography",
 			"UI",
 			"UX",
-			"designThinking",
-			"apple"
+			"writing"
 		]
 	}
 }
